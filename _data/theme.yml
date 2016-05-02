@@ -24,7 +24,7 @@ email: lucas@panjer.org
 tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: UA-189183-3
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
 show_atom_feed: true
