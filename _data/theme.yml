@@ -1,0 +1,30 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#582A72'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: lucaspanjer
+  #bitbucket:
+  #hacker_news:
+  #stackexchange:
+  #stackoverflow:
+  twitter: lucaspanjer
+  #facebook:
+  #tumblr:
+  linkedin: lucas.panjer
+  #gplus:
+  gravatar: 27c62ec13312aaea7f4909dafdefaf93
+  #flickr: johndoe
+
+# "Hi, I'm _______"
+name: Lucas Panjer
+email: lucas@panjer.org
+tagline: ""
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true
